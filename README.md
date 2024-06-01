@@ -17,6 +17,13 @@ The Handwriting Recognition System is a sophisticated project developed as part 
 ## Installation
 Clone the repository and install the required dependencies to set up the project on your local machine:
 
+## Acknowledgments
+- **Prof. Hoàng Văn Dũng:** For his invaluable guidance and support.
+- **Ho Chi Minh City University of Technical Education::** For providing the resources necessary for this project.
+  
+## Contact
+- **Triệu Thị Tâm Anh:** trieuthitamanha1@gmail.com
+
 ```bash
 git clone https://github.com/fwishy121/Handwriting_Recognition_Project.git
 cd Handwriting_Recognition_Project
